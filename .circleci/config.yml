@@ -32,7 +32,6 @@ jobs:
             railway link 0135db6f-fc3f-4f81-a5dc-a275b2b184e1 8ce5e83a-84c9-4c8d-b741-630761fb67d0
             railway up --detach
 
-
 tags_only: &tags_only
   filters:
     branches:
